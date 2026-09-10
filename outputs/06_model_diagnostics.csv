@@ -1,0 +1,3 @@
+"Diagnostic","Statistic","P_value"
+"Anderson-Darling normality",44.5983586016846,3.7e-24
+"Breusch-Pagan heteroskedasticity",1654.31461309188,0
